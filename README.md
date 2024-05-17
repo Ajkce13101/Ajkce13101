@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajaya K C</h1>
-<h3 align="center">A passionate Frontend Web developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif"/>
 
 - 🔭 I’m currently working on **JavaScript Technologies**
